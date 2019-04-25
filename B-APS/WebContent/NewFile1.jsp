@@ -11,7 +11,7 @@
 <body>
 
 <!-- Navigation -->
-<nav class="w3-bar w3-black">
+<nav class="w3-bar w3-black" >
 <a href="#home" class="w3-button w3-bar-item" ><font face=cursive>B-APS</font></a>
   <a href="#home" class="w3-button w3-bar-item">Home</a>
   <a href="#band" class="w3-button w3-bar-item">Our services</a>
@@ -20,13 +20,18 @@
  <a href="Login.html" class="w3-button w3-bar-item w3-display-topright">Login</a>	
   <a href="Register1.html" class="w3-button w3-bar-item w3-display-right">Register</a>
 </nav>
+
 <section>
+
+<img class="mySlides" src=".\img\sup.png"
+  style="width:100%">
+  <img class="mySlides" src=".\img\i1.png"
+  style="width:100%">
   <img class="mySlides" src=".\img\1449297288computer-support.jpg"
   style="width:100%">
-<img class="mySlides" src=".\img\support.jpg"
-  style="width:100%">
- 
+
  </section> 
+
  <!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
   <a href="#"><i class="fa fa-facebook-official"></i></a>
