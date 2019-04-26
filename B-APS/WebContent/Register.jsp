@@ -1,7 +1,9 @@
-<!DOCTYPE html>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta charset="ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
 <style>
@@ -118,7 +120,7 @@ filter: blur(8px);
 
 <form action="/action_page.php" style="border:1px solid #ccc">
   <div class="form">
-  <div class="container">
+ 
     <h1>Sign Up</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -165,7 +167,7 @@ filter: blur(8px);
       
     </div>
     </div>
-  </div>
+
   
 </form>
 

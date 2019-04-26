@@ -17,15 +17,15 @@
   <a href="#band" class="w3-button w3-bar-item">Our services</a>
   <a href="#tour" class="w3-button w3-bar-item">AboutUs</a>
   <a href="#contact" class="w3-button w3-bar-item">Menu</a>
- <a href="Login.html" class="w3-button w3-bar-item w3-display-topright">Login</a>	
-  <a href="Register1.html" class="w3-button w3-bar-item w3-display-right">Register</a>
+ <a href="Login.jsp" class="w3-button w3-bar-item w3-display-topright">Login</a>	
+  <a href="Register.jsp" class="w3-button w3-bar-item w3-display-right">Register</a>
 </nav>
 
 <section>
 
 <img class="mySlides" src=".\img\sup.png"
   style="width:100%">
-  <img class="mySlides" src=".\img\i1.png"
+  <img class="mySlides" src=".\img\MISSION.jpg"
   style="width:100%">
   <img class="mySlides" src=".\img\1449297288computer-support.jpg"
   style="width:100%">
@@ -40,7 +40,7 @@
   <a href="#"><i class="fa fa-flickr"></i></a>
   <a href="#"><i class="fa fa-linkedin"></i></a>
   <p class="w3-medium">
-  Powered by <a href="Login.html" target="_blank">@copyright-csk 2019</a>
+  Powered by <a href="Login.jsp" target="_blank">@copyright-csk 2019</a>
   </p>
 </footer>
  <script>
